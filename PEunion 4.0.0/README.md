@@ -1,7 +1,9 @@
-PEUNION Crypter 2023
+### PEUNION Crypter 2023
 
 PEUNION Crypter 2023 CRYPTER, BINDER & DOWNLOADER
 PEunion encrypts executables, which are decrypted at runtime and executed in-memory.
+
+## I think that this Crypter is one of the best, with a bit of coding knowledge it can easy be made FUD. And there are a lot of options in this litte great tool
 
 STUB
 Two stubs are available to choose from, both of which work in a similar way.Native: Written in assembly (FASM)
